@@ -1,0 +1,35 @@
+c:\users\aorus x3 v7\documents\visual studio 2015\Projects\demoGlcontrol\demoGlcontrol\bin\Debug\demoGlcontrol.exe.config
+c:\users\aorus x3 v7\documents\visual studio 2015\Projects\demoGlcontrol\demoGlcontrol\bin\Debug\demoGlcontrol.exe
+c:\users\aorus x3 v7\documents\visual studio 2015\Projects\demoGlcontrol\demoGlcontrol\bin\Debug\demoGlcontrol.pdb
+c:\users\aorus x3 v7\documents\visual studio 2015\Projects\demoGlcontrol\demoGlcontrol\bin\Debug\OpenTK.dll
+c:\users\aorus x3 v7\documents\visual studio 2015\Projects\demoGlcontrol\demoGlcontrol\bin\Debug\OpenTK.GLControl.dll
+c:\users\aorus x3 v7\documents\visual studio 2015\Projects\demoGlcontrol\demoGlcontrol\bin\Debug\OpenTK.pdb
+c:\users\aorus x3 v7\documents\visual studio 2015\Projects\demoGlcontrol\demoGlcontrol\bin\Debug\OpenTK.xml
+c:\users\aorus x3 v7\documents\visual studio 2015\Projects\demoGlcontrol\demoGlcontrol\bin\Debug\OpenTK.GLControl.pdb
+c:\users\aorus x3 v7\documents\visual studio 2015\Projects\demoGlcontrol\demoGlcontrol\bin\Debug\OpenTK.GLControl.xml
+c:\users\aorus x3 v7\documents\visual studio 2015\Projects\demoGlcontrol\demoGlcontrol\obj\Debug\demoGlcontrol.csprojResolveAssemblyReference.cache
+c:\users\aorus x3 v7\documents\visual studio 2015\Projects\demoGlcontrol\demoGlcontrol\obj\Debug\demoGlcontrol.Form1.resources
+c:\users\aorus x3 v7\documents\visual studio 2015\Projects\demoGlcontrol\demoGlcontrol\obj\Debug\demoGlcontrol.Properties.Resources.resources
+c:\users\aorus x3 v7\documents\visual studio 2015\Projects\demoGlcontrol\demoGlcontrol\obj\Debug\demoGlcontrol.csproj.GenerateResource.Cache
+c:\users\aorus x3 v7\documents\visual studio 2015\Projects\demoGlcontrol\demoGlcontrol\obj\Debug\demoGlcontrol.exe
+c:\users\aorus x3 v7\documents\visual studio 2015\Projects\demoGlcontrol\demoGlcontrol\obj\Debug\demoGlcontrol.pdb
+C:\Users\user\Source\Repos\ProyectoProgGrafica2\demoGlcontrol\demoGlcontrol\bin\Debug\demoGlcontrol.exe.config
+C:\Users\user\Source\Repos\ProyectoProgGrafica2\demoGlcontrol\demoGlcontrol\obj\Debug\demoGlcontrol.exe
+C:\Users\user\Source\Repos\ProyectoProgGrafica2\demoGlcontrol\demoGlcontrol\obj\Debug\demoGlcontrol.pdb
+C:\Users\user\Source\Repos\ProyectoProgGrafica2\demoGlcontrol\demoGlcontrol\bin\Debug\demoGlcontrol.exe
+C:\Users\user\Source\Repos\ProyectoProgGrafica2\demoGlcontrol\demoGlcontrol\bin\Debug\demoGlcontrol.pdb
+C:\Users\user\Source\Repos\ProyectoProgGrafica2\demoGlcontrol\demoGlcontrol\bin\Debug\OpenTK.dll
+C:\Users\user\Source\Repos\ProyectoProgGrafica2\demoGlcontrol\demoGlcontrol\bin\Debug\OpenTK.GLControl.dll
+C:\Users\user\Source\Repos\ProyectoProgGrafica2\demoGlcontrol\demoGlcontrol\bin\Debug\OpenTK.pdb
+C:\Users\user\Source\Repos\ProyectoProgGrafica2\demoGlcontrol\demoGlcontrol\bin\Debug\OpenTK.xml
+C:\Users\user\Source\Repos\ProyectoProgGrafica2\demoGlcontrol\demoGlcontrol\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\user\Source\Repos\ProyectoProgGrafica2\demoGlcontrol\demoGlcontrol\bin\Debug\OpenTK.GLControl.xml
+C:\Users\user\Source\Repos\ProyectoProgGrafica2\demoGlcontrol\demoGlcontrol\obj\Debug\demoGlcontrol.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\ProyectoProgGrafica2\demoGlcontrol\demoGlcontrol\obj\Debug\demoGlcontrol.Form1.resources
+C:\Users\user\Source\Repos\ProyectoProgGrafica2\demoGlcontrol\demoGlcontrol\obj\Debug\demoGlcontrol.Properties.Resources.resources
+C:\Users\user\Source\Repos\ProyectoProgGrafica2\demoGlcontrol\demoGlcontrol\obj\Debug\demoGlcontrol.csproj.GenerateResource.Cache
+C:\Users\user\Source\Repos\ProyectoProgGrafica2\demoGlcontrol\demoGlcontrol\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Source\Repos\ProyectoProgGrafica2\demoGlcontrol\demoGlcontrol\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Source\Repos\Final-Grafica\demoGlcontrol\demoGlcontrol\bin\Debug\demoGlcontrol.exe.config
+C:\Users\user\Source\Repos\Final-Grafica\demoGlcontrol\demoGlcontrol\obj\Debug\demoGlcontrol.exe
+C:\Users\user\Source\Repos\Final-Grafica\demoGlcontrol\demoGlcontrol\obj\Debug\demoGlcontrol.pdb
